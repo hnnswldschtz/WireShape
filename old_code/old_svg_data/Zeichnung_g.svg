@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Zeichnung_g.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.42775909"
+     inkscape:cx="447.6819"
+     inkscape:cy="612.49429"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3188"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+       transform="matrix(0.26458333,0,0,0.26458333,8.8705929,-13.629776)">
+      <g
+         id="g3186">
+        <path
+           d="m 111.917,413.529 c 0,0 7.942,-16.999 10.107,-38.851 C 94.737,369.512 68.664,356.377 47.563,335.276 -8.318,279.395 -8.32,188.65 47.564,132.766 64.981,115.348 85.783,103.358 107.865,96.801 l -0.879,0.274 c 8.478,-2.778 17.617,1.85 20.395,10.329 2.777,8.477 -1.852,17.616 -10.331,20.394 l 0.029,-0.001 c -1.511,0.755 -2.991,1.563 -4.439,2.42 -5.166,3.058 -9.912,6.751 -14.132,10.971 -12.883,12.883 -20.855,30.675 -20.855,50.314 0,39.28 31.89,71.169 71.169,71.169 19.64,0 37.432,-7.972 50.314,-20.854 12.882,-12.883 20.855,-30.675 20.855,-50.315 0,-27.864 -16.048,-52.01 -39.398,-63.69 l -10e-4,-0.015 c -8.478,-2.778 -13.107,-11.917 -10.33,-20.395 2.778,-8.478 11.917,-13.106 20.395,-10.328 l -0.886,-0.273 c 22.08,6.556 42.883,18.547 60.302,35.965 55.888,55.889 55.881,146.629 0,202.509 -30.429,30.43 -71.194,44.29 -111.041,41.58 -0.052,1.159 -3.319,16.491 4.627,36.674"
+           style="fill:none;stroke:#009026;stroke-width:3px"
+           id="path3184" />
+      </g>
+    </g>
+  </g>
+</svg>
