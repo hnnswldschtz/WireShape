@@ -1,0 +1,45 @@
+(move wire to start)
+G1G21G91X-2F130
+($32=1)
+(0.7 is from outa space to touchdown wire)
+S10000
+
+G21G91Y1
+M3
+G1G91X1.5
+M5
+G91X-1.2
+M3
+G91X.1 (A.3)
+G91Y0.6
+M5
+G91X1.6 (A1.9)
+M3
+G91X-.1 (A1.7)
+G91Y0.65
+M5
+G91X-2
+M3
+G91X.1 (A-.1)
+G91Y0.4
+M5
+G91X1.9
+M3
+G91X-.1 (A1.8)
+G91Y0.35
+G91X-1.8
+M3
+G91X.1 (A0.1)
+G91Y0.25
+M5
+G91X1.8 (A1.9)
+M3
+G91X-.1 (A1.8)
+G91Y0.2
+M5
+G91X-1.8(A0)
+M3
+G91Y0.25
+G91X1.8(A0)
+M5
+G91X-1.8(A0)
