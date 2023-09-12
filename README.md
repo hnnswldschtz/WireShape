@@ -1,5 +1,6 @@
-# WireShape_CAM_Processor
+# WireShape
 
+WireShape_CAM_Processor
 svg to gcode parser and interpreter for the  
 Wireshape process (freiform-heißpress). 
 previews shape, outputs gcode file for the CNC Wireshaper. 
