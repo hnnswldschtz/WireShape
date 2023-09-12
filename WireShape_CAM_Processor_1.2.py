@@ -10,6 +10,8 @@ dependencies:
 - matplolib 
 - svg.path
 
+todo:
+update CMDline interface, make it work
 copyright hnnz 2023
 
 GPL-3.0-or-later
@@ -48,9 +50,9 @@ def document_parse(file_name, outputPath):
     global vWidth
     global extension
     global res
-
+    
    
-    openpath='./svg_data/'
+    openpath='./'
 
     try:
         datasource = open('%s%s'%(openpath,file_name))
@@ -325,7 +327,7 @@ def main(argv):
 
     std_file='hexa.svg'
     extension="nc"
-    outputPath='./gcode_output/'
+    outputPath='./'
 
 
     try:
@@ -336,7 +338,7 @@ def main(argv):
     for opt, arg in opts:
         if opt == "-h":
             #print ('\n')
-            print ('\nusage: -i <inputfile> -o <output DIR> -r <resolution> (1=default)')
+            print ('\nusage: -i <inputfile> -o <output DIR/> -r <resolution> (1=default)')
             print ('setting a resolution with -r switchs on rasterizing on all standart gcode commands')
             print ('which causes a massive increase of points and slower plotting\n')
             sys.exit()
