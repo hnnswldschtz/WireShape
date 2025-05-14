@@ -5,7 +5,7 @@ For more details and Background, check this source:
 https://dl.acm.org/doi/10.1145/3623263.3623363
 
 
-<img width="652" alt="pneuCNTRL" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/WireBending_Machine_2.jpg?raw=true">
+<img width="652" alt="machine" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/WireBending_Machine_2.jpg?raw=true">
 
 
 ## WireShape_CAM_Processor
@@ -17,12 +17,13 @@ dependencies:
 - matplolib 
 - svg.path
 
-<img width="652" alt="pneuCNTRL" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/bend_steps_fat.jpg?raw=truee">
+<img width="652" alt="bedning steps" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/bend_steps_fat.jpg?raw=truee">
 
 
 
 ## Wire Shape Hardware
 
+<img width="652" alt="assembly" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/wireshape_cnc_explosion.jpg?raw=true">
 
 
 ### Wireshape CNC BOM
