@@ -1,6 +1,6 @@
 # WireShape
 
-WireShape_CAM_Processor
+## WireShape_CAM_Processor
 svg to gcode parser and interpreter for the  
 Wireshape process (freiform-heißpress). 
 previews shape, outputs gcode file for the CNC Wireshaper. 
@@ -11,26 +11,15 @@ dependencies:
 
 
 
-GPL-3.0-or-later
 
-This program is free software: you can redistribute it and/or modify it
-under the terms of the GNU General Public License as published by the Free Software Foundation,
-either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
-or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
-for more details.
-
-You should have received a copy of the GNU General Public License along with
-this program. If not, see <https://www.gnu.org/licenses/>.
+## Wire Shape Hardware
 
 
-Wire shape BOM:
-
-WIRESHAPE CNC BOM
+### Wireshape CNC BOM
 -------------------------------
 
+
+#### Electronics
 1x Arduino Uno R3
 1x Arduino CNC shield eg https://www.ebay.de/itm/253692368532
 3x DRV8825 stepper driver
@@ -41,6 +30,7 @@ WIRESHAPE CNC BOM
 FET driver for solenoid like: https://www.amazon.de/Treibermodul-Dual-Hochleistungs-Switching-Schalttafel-Ar-duino/dp/B0DG8B58PM
 Powersupply 12V
 
+#### Machanics
 1x Belt - Polyurethane timing belt T2.5 width 6mm Lw 330 132 teeth - https://www.maedler.de/Article/16061200
 1x Pulley - Timing belt pulley T2.5 material aluminium 20 teeth for belt width 10mm https://www.maedler.de/Article/16032000
 1x Axis (cut to 37 mm) -  Silver steel DIN 175 115CrV3 ground and polished diameter 6h9 x 500mm long https://www.maedler.de/Article/64700600
@@ -53,7 +43,7 @@ Chassis - 9mm plywood
 10 x V-Groove ball bearing 4x13x6mm (ID,OD,Thk) (for straightener)
 http://www.ebay.com/itm/10Pcs-Metal-Sealed-Guide-Wire-Line-Track-Deep-V-Groove-Pulley-Rail-Ball-Bearing-/321898243903?hash=item4af2a1673f:g:jJQAAOSwT5tWJeYd
 
-###########screws########
+##### screws
 
 10 x M4 nut
 20 x M4 Nut, self locking
@@ -71,3 +61,18 @@ Countersunk head screw (straightener):
 
 Details about Filament straightener 
 https://www.thingiverse.com/thing:1552283
+
+
+GPL-3.0-or-later
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
+for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program. If not, see <https://www.gnu.org/licenses/>.
