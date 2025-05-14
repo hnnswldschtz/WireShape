@@ -18,7 +18,7 @@ dependencies:
 - svg.path
 
 <img width="652" alt="bedning steps" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/bend_steps_fat.jpg?raw=truee">
-
+Principle of the CNC wire bending mechanism
 
 
 ## Wire Shape Hardware
@@ -39,7 +39,7 @@ dependencies:
 FET driver for solenoid like: https://www.amazon.de/Treibermodul-Dual-Hochleistungs-Switching-Schalttafel-Ar-duino/dp/B0DG8B58PM
 Powersupply 12V
 
-#### Machanics
+#### Mechanics
 1x Belt - Polyurethane timing belt T2.5 width 6mm Lw 330 132 teeth - https://www.maedler.de/Article/16061200
 1x Pulley - Timing belt pulley T2.5 material aluminium 20 teeth for belt width 10mm https://www.maedler.de/Article/16032000
 1x Axis (cut to 37 mm) -  Silver steel DIN 175 115CrV3 ground and polished diameter 6h9 x 500mm long https://www.maedler.de/Article/64700600
@@ -71,17 +71,3 @@ Countersunk head screw (straightener):
 Details about Filament straightener 
 https://www.thingiverse.com/thing:1552283
 
-
-GPL-3.0-or-later
-
-This program is free software: you can redistribute it and/or modify it
-under the terms of the GNU General Public License as published by the Free Software Foundation,
-either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
-or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
-for more details.
-
-You should have received a copy of the GNU General Public License along with
-this program. If not, see <https://www.gnu.org/licenses/>.
