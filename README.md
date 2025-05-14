@@ -1,10 +1,12 @@
 # WireShape
 
-*WireShape CNC* is a cnc-wirebending machine and machine-specifc CAM control software. Our low-cost machine design is
-similar to commercially available wire benders (such as the DI Wire), but constructed from widely available
-3D-printer components, 3D-printed mechanics, stepper motors, open source control electronics, and a CNC-milled wooden base frame. 
+*WireShape CNC* is a cnc-wirebending machine and CAM control software. Our low-cost machine design is similar to commercially available wire benders (such as the DI Wire), but constructed from widely available 3D-printer components, 3D-printed mechanics, stepper motors, open source control electronics, and a CNC-milled wooden base frame. 
 For more details and Background, check this source:
 https://dl.acm.org/doi/10.1145/3623263.3623363
+
+
+<img width="652" alt="pneuCNTRL" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/WireBending_Machine_2.jpg?raw=true">
+
 
 ## WireShape_CAM_Processor
 svg to gcode parser and interpreter for the  
@@ -15,10 +17,13 @@ dependencies:
 - matplolib 
 - svg.path
 
+<img width="652" alt="pneuCNTRL" src="https://github.com/hnnswldschtz/WireShape/blob/master/Hardware/images/bend_steps_fat.jpg?raw=truee">
 
 
 
 ## Wire Shape Hardware
+
+
 
 ### Wireshape CNC BOM
 
