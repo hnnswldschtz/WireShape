@@ -65,6 +65,6 @@ Nuts
 + 10 x M4 nut
 + 20 x M4 Nut, self locking
 
-Details about Filament straightener 
+The Filament straightener section is based on Jonatan Bloms Work reelased under CC BY 4.0:
 https://www.thingiverse.com/thing:1552283
 
